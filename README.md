@@ -16,6 +16,8 @@ LIMA, Derek Antonio De; CARVALHO JUNIOR, Arnaldo De; VARELLA, Walter Augusto; DA
 Alves Ferreira, E., & de Carvalho Junior, A. (2026). PLANO DE IMPLANTAÇÃO DE SISTEMA RFID EM ARMAZÉNS: TRANSFORMAÇÃO DIGITAL INTRALOGÍSTICA. South American Development Society Journal, 12(34), 283. DOI: 10.24325/issn.2446-5763.v12i34p283-304. 
 Disponível em: https://sadsj.org/index.php/revista/article/view/831. Acesso em: Maio 25, 2026.
 
+BARUSSO DE OLIVEIRA, Carolina; AUGUSTO VARELLA, Walter; LINCONL NUNES KNOELLER, Leonardo; DE CARVALHO JUNIOR, Arnaldo. Smart System For Small Farmers to Identify, Locate, and Treat Soybean Plantation Leaf Diseases . Revista Eletrônica Competências Digitais para Agricultura Familiar, Tupã, São Paulo, Brasil, v. 12, n. 1, p. e1201218, 2026. Disponível em: https://owl.tupa.unesp.br/recodaf/index.php/recodaf/article/view/218. Acesso em: 7 jul. 2026.
+
 # 2025
 LIMA, Felipe Diniz; CARDOSO, Gabriel Costa; DE LIMA, Paulo Victor Nascimento; DE CARVALHO JUNIOR, Arnaldo. SAFEGAS - SISTEMA INTELIGENTE DE DETECÇÃO DE GÁS. Revista Acadêmica - Ensino de Ciências e Tecnologias do IFSP – Campus Cubatão, QUALIF, ISSN 2595-2277, Vol. 11, nº 17, Jul-Dez 2025, pág. 423-435. Disponível em: https://intranet.cbt.ifsp.edu.br/qualif/volume17/RELATO1.pdf. Acesso em: Maio 25, 2026.
 
