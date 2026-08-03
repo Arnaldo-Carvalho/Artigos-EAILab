@@ -11,6 +11,8 @@ SIMÕES, B. G.; CARVALHO JUNIOR, A. Como criar uma Inteligência Artificial de C
 
 # Published research
 # 2026
+MEDEIROS, M. C., DE CARVALHO JUNIOR, A., DE OLIVEIRA, A. M.& DA SILVA FILHO, J. I. Sistema IoT de Monitoramento de Elementos do Clima para Condições de Trabalho com Filtro LPA2v, Unisanta Science & Technology, v. 15, i.1, pp.12-18, 2026. DOI:10.5281/zenodo.21740069.
+
 LIMA, Derek Antonio De; CARVALHO JUNIOR, Arnaldo De; VARELLA, Walter Augusto; DA SILVA FILHO, João Inacio.  Desenvolvimento de Modelo de IA para Detecção de Situações de Risco em Imagens de Câmeras de Vigilância, Unisanta Science and Technology, vol. 15, issue 1, pp. 5-11, 2026. DOI: 10.5281/zenodo.18407666. Disponível em: https://periodicos.unisanta.br/SAT/article/view/3279. Acesso em: Maio 25, 2026.
 
 Alves Ferreira, E., & de Carvalho Junior, A. (2026). PLANO DE IMPLANTAÇÃO DE SISTEMA RFID EM ARMAZÉNS: TRANSFORMAÇÃO DIGITAL INTRALOGÍSTICA. South American Development Society Journal, 12(34), 283. DOI: 10.24325/issn.2446-5763.v12i34p283-304. 
