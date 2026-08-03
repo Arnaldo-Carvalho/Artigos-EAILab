@@ -1,7 +1,7 @@
 # Articles
 
 # Biblioteca PAL2v para Python
-DA CRUZ, Diego Oliveira; ALVES, Bruno. Da Silva; CARVALHO JUNIOR, Arnaldo. Paraconsistent-Lib, Python Library, EAILAB, IFSP, Sao Paulo - Brazil, 2025. Disponível em: https://eailab-ifsp.github.io/Paraconsistent-Lib/. Acessado em nov 14, 2025.
+DA CRUZ, Diego Oliveira; ALVES, Bruno. Da Silva; CARVALHO JUNIOR, Arnaldo. Paraconsistent-Lib, Python Library, EAILAB, IFSP, Sao Paulo - Brazil, 2025. Disponível em: https://eailab-ifsp.github.io/Paraconsistent-Lib/. Acessado em nov 14, 2025. Disponível em: https://periodicos.unisanta.br/SAT/article/view/3422. Acesso em Ago 03, 2026.
 
 # Passo a Passo para Projeto de IA com Imagem
 ALVES, B. S. CARVALHO JUNIOR, A. Passo a Passo no 1º projeto de Inteligência Artificial (IA)!, EAILAB, IFSP, 2025. Disponível em: https://eailab-ifsp.github.io/Roteiro_ML_Edge_Impulse/. Acessado em Mai 07, 2025. 
